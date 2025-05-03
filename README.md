@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Hamda Shahid</h1>
-<h3 align="center">🚀 Flutter Developer | C++ & Python Programmer | AI Enthusiast</h3>
+<h3 align="center">🚀  AI Enthusiast | Flutter Developer | C++ & Python Programmer </h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdashahid&theme=radical" alt="GitHub Streak" />
