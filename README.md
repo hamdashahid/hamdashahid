@@ -1,67 +1,48 @@
-<h1 align="center">Hey there! 👋 I'm Hamda Shahid</h1>
-<h3 align="center">🚀  AI Enthusiast | Flutter Developer | C++ & Python Programmer </h3>
+<h1 align="center">Hamda Shahid</h1>
+<p align="center">
+  <b>AI Engineer in the making</b> · LLMs · Computer Vision · Full-Stack ML
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdashahid&theme=radical" alt="GitHub Streak" />
+  <a href="https://hamdashahid-three.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/hamda-shahid-b1129228b">LinkedIn</a> ·
+  <a href="mailto:hamdashahid5050@gmail.com">Email</a> ·
+  <a href="https://www.upwork.com/freelancers/~017d2662bf64f94157">Upwork</a>
 </p>
 
 ---
 
-## 🚀 About Me  
-🔹 **Passionate** about building scalable applications with **Flutter, C++, and Python**.  
-🔹 Exploring **open-source contributions** and **backend integrations**.  
-🔹 Currently diving into **AI-powered apps & advanced Flutter state management**.  
-🔹 **Ask me about:** Flutter development, database integration, or system programming!  
+### About
+
+AI undergraduate at **FAST NUCES**, specializing in deep learning, computer vision, and LLM-powered applications. I build end-to-end systems — from RAG-based voice assistants to dual-output CNNs for detection — and currently serve as an **AI Lab Demonstrator**. Comfortable across the modern ML stack and ship-ready engineering.
+
+- Currently building: **local RAG and voice-LLM systems**
+- ML Intern at **Hexler Tech**, working on TensorFlow/YOLO computer vision
+- Open to **AI research internships and new-grad ML roles** for 2026–27
 
 ---
 
-## 🛠️ Tech Stack  
+### Featured Projects
 
-### 🚀 **Languages**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-</p>
+**[SEC Investment Research Voice Assistant](https://github.com/tahainam555/ARBOR-AI)** &nbsp;·&nbsp; `Python` `RAG` `LLM` `FastAPI` `ChromaDB`
+Voice-driven RAG assistant for SEC filings with cited responses. Local Llama-3.2-3B via llama-cpp-python, ChromaDB + MiniLM embeddings, streaming faster-whisper + edge-tts pipeline over async WebSockets.
 
-### 🛠 **Frameworks & Tools**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-FF9900?style=for-the-badge&logo=hive&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+**[EchoMindAI — Voice Assistant with Contextual Memory](https://github.com/hamdashahid/EchoMindAI)** &nbsp;·&nbsp; `React` `Node.js` `OpenAI` `STT/TTS`
+Voice-first AI assistant supporting multi-turn conversations with session-based contextual memory and a real-time speech loop.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamdashahid&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdashahid&layout=compact&theme=radical" />
-</p>
+### Tech Stack
+
+**AI/ML** &nbsp;PyTorch · TensorFlow · Keras · Scikit-learn · OpenCV · CNNs · YOLO · NLP
+**LLMs** &nbsp;RAG · Prompt Engineering · Embeddings · ChromaDB · Llama · Phi-3 · OpenAI API
+**Languages** &nbsp;Python · C++ · SQL · Dart · JavaScript
+**Frameworks** &nbsp;FastAPI · React · Node.js · Streamlit · Flutter
+**Tools** &nbsp;Git · Docker · VS Code · Google Colab
 
 ---
 
-## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamda-shahid-b1129228b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=hamdashahid5050@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~017d2662bf64f94157?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamdashahid&show_icons=true&hide_border=true&theme=transparent&icon_color=4f46e5&title_color=4f46e5" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdashahid&layout=compact&hide_border=true&theme=transparent&title_color=4f46e5" height="160" />
 </p>
-
----
-
-⭐ **If you like my work, consider giving my repositories a star!**  
-🚀 **Let's collaborate and build amazing projects together!**  
