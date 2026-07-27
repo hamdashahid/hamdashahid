@@ -158,10 +158,6 @@
   <img src="https://raw.githubusercontent.com/hamdashahid/hamdashahid/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
 ---
 
